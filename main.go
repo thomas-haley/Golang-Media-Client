@@ -12,7 +12,7 @@ import (
 	"thaley/fileServerClient/util"
 )
 
-var ServerIP string = "73.178.239.141"
+var ServerIP string = "0.0.0.0"
 var ServerPort string = "9999"
 
 func main() {
